@@ -1,0 +1,6 @@
+{
+    "name": "form/pdf",
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    }
+}
